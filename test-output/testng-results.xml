@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="20761" started-at="2023-10-25T12:53:38 CDT" finished-at="2023-10-25T12:53:58 CDT">
+  <suite name="Default suite" duration-ms="12820" started-at="2023-10-25T20:54:06 CDT" finished-at="2023-10-25T20:54:19 CDT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="20761" started-at="2023-10-25T12:53:38 CDT" finished-at="2023-10-25T12:53:58 CDT">
+    <test name="Default test" duration-ms="12820" started-at="2023-10-25T20:54:06 CDT" finished-at="2023-10-25T20:54:19 CDT">
       <class name="concepts.TestNg">
-        <test-method status="PASS" signature="readConfig()[pri:0, instance:concepts.TestNg@1d371b2d]" name="readConfig" is-config="true" duration-ms="10" started-at="2023-10-25T12:53:38 CDT" finished-at="2023-10-25T12:53:38 CDT">
+        <test-method status="PASS" signature="readConfig()[pri:0, instance:concepts.TestNg@1d371b2d]" name="readConfig" is-config="true" duration-ms="6" started-at="2023-10-25T20:54:06 CDT" finished-at="2023-10-25T20:54:06 CDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- readConfig -->
-        <test-method status="PASS" signature="init()[pri:0, instance:concepts.TestNg@1d371b2d]" name="init" is-config="true" duration-ms="9074" started-at="2023-10-25T12:53:38 CDT" finished-at="2023-10-25T12:53:47 CDT">
+        <test-method status="PASS" signature="init()[pri:0, instance:concepts.TestNg@1d371b2d]" name="init" is-config="true" duration-ms="4185" started-at="2023-10-25T20:54:06 CDT" finished-at="2023-10-25T20:54:10 CDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="addCustomers()[pri:2, instance:concepts.TestNg@1d371b2d]" name="addCustomers" duration-ms="11603" started-at="2023-10-25T12:53:47 CDT" finished-at="2023-10-25T12:53:58 CDT">
+        <test-method status="PASS" signature="addCustomers()[pri:2, instance:concepts.TestNg@1d371b2d]" name="addCustomers" duration-ms="8591" started-at="2023-10-25T20:54:10 CDT" finished-at="2023-10-25T20:54:19 CDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addCustomers -->
